@@ -3,7 +3,7 @@
 This repository contains the successfully completion of LEVEL 2 tasks as a part of the <b> Web-Development and Designing </b> Internship at Oasis Infobyte.
 
  ## Check out the main website here
-[Live](https://ayushkr012.github.io/OIBSIP/)
+[Live] (https://ayushkr012.github.io/OIBSIP/)
 
  ## Task Sections
 
