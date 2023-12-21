@@ -14,7 +14,7 @@ Create a calculator with a user interface for basic mathematical functionalities
 Create a tribute page that pays homage to someone you admire or respect using HTML, CSS, and Javascript. <br>
 
 ### Task-3 (To-Do List WebApp)
-Develop a basic To-Do WebApp that enables a user to add daily tasks and show Completed and Incomplete Tasks. <br>
+Develop a To-Do WebApp that enables a user to add daily tasks and show Completed and Incomplete Tasks. <br>
 
 ### Task-4 (login authentication system)
-Create a simple login authentication system using JavaScript, that allows users to register, login, and access a secured page. <br>
+Create a login authentication system using Nodejs,Express.Js,MongoDb,JavaScript that allows users to register, login, and access a secured page. <br>
